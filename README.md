@@ -1,8 +1,8 @@
-# CS:M Dashboard
+# Nextjs, Typescript and TailwindCSS Boilerplate
 
-Main dashboard app for the City States: Medieval the empire building MMO currently in development for mobile (tablet/smartphone) and desktop computers.
+This is a boilerplate to accelerate further projects development, it uses Nextjs, Typescript, TailwindCSS configured to purge unused classes for better production optimization, PostCSS, Prettier for better auto formatting, Eslint configured for Typescript to help enforce strict rules during development, Husky to check for errors and Lint Staged to limit error checking only for files actually staged and speed up the project's deployment.
 
- Built using [Nextjs](https://github.com/vercel/next.js), [TypeScript](https://github.com/microsoft/TypeScript), [TaildwindCss](https://github.com/tailwindlabs/tailwindcss) and [React Query](https://github.com/tannerlinsley/react-query).
+It also includes a basic folder structure for your project.
 
 ## Installation
 

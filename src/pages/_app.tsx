@@ -1,9 +1,5 @@
 import 'tailwindcss/tailwind.css'
-
-interface AppProps {
-  Component: React.FC
-  pageProps: unknown
-}
+import { AppProps } from 'next/app'
 
 const MyApp: React.FC<AppProps> = ({ Component, pageProps }: AppProps) => {
   return <Component {...pageProps} />

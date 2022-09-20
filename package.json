@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@types/node": "^15.3.0",
-    "@types/react": "^18.2.0",
+    "@types/react": "^18.0.20",
     "next": "12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
